@@ -16,10 +16,11 @@ speed vs safety, control vs convenience, simplicity vs power.
 
 I’m still early, but I’m intentionally going deep instead of wide.
 
+
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notwaris&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notwaris&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&langs_count=10" height="160"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=notwaris&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=notwaris&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" height="160"/>
 </p>
 
 <p align="center">
