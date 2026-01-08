@@ -6,7 +6,6 @@ I’m **Waris**, a 16 y/o Generalist developer from India focused on systems and
 I spend my time building and experimenting with **low-level and performance-oriented software**.  
 I care more about how things behave under the hood than how polished they look on the surface.
 
-Most of my learning comes from reading source code, breaking assumptions, and rebuilding things with fewer abstractions.
 
 ### Languages & Tools
 **C, C++, Rust, Go, Python**
@@ -15,6 +14,10 @@ My interest lies in understanding trade-offs:
 speed vs safety, control vs convenience, simplicity vs power.
 
 I’m still early, but I’m intentionally going deep instead of wide.
+
+### Connect
+- Website: [waris.wtf](https://waris.wtf)  
+- Email: [hello@waris.wtf](mailto:hello@waris.wtf)
 
 
 ## Stats
